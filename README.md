@@ -11,7 +11,7 @@ Make sure you have the following installed on your system:
 2. github
 
 Clone the Repository
-git clone https://github.com/AduNkansahLordy/lordy.git
+git clone https://github.com/AduNkansahLordy/acnologia.git
 cd lordy
 
 Screenshots:
